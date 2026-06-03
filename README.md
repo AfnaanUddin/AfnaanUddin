@@ -15,9 +15,26 @@ afnaanuddin@gmail.com
 - ISC2 Certified in Cybersecurity (CC)
 
 ## Skills & Tools
-Cybersecurity Tools: Rapid7, CrowdStrike, ProofPoint, NetSkope, CyberArk, PingFederate, SentinelOne, ServiceNow (ITSM)
-Cloud & Identity: Microsoft Azure, Entra ID
-Networking: TCP/IP, DNS, HTTP/S, VPN, Firewalls
-Operating Systems: Windows, macOS, Linux
-Programming/Scripting: Python, C/C++, PowerShell, Bash, SQL
-Security Concepts: Incident Response, Threat Detection, IAM, Security Principles, Risk Management, BCP/DR, Security Operations
+**Cybersecurity Tools**
+
+Rapid7, CrowdStrike, ProofPoint, Netskope, CyberArk, PingFederate, SentinelOne, ServiceNow (ITSM)
+
+**Cloud & Identity**
+
+Microsoft Azure, Entra ID
+
+**Networking**
+
+TCP/IP, DNS, HTTP/S, VPN, Firewalls
+
+**Operating Systems**
+
+Windows, macOS, Linux
+
+**Programming & Scripting**
+
+Python, C/C++, PowerShell, Bash, SQL
+
+**Security Concepts**
+
+Incident Response, Threat Detection, IAM, Security Principles, Risk Management, BCP/DR, Security Operations
