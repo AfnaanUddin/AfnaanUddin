@@ -7,7 +7,7 @@ A Cybersecurity Professional pursuing a Bachelor's Degree in Computer Science
 ## Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/mohammed-afnaan-uddin-283b33257/)  
-📧 Email: afnaanuddin@gmail.com
+[Email] (afnaanuddin@gmail.com)
 
 ## Certifications
 
