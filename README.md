@@ -1,6 +1,6 @@
 ## Hi, I am Mohammed Afnaan Uddin
 
-A Cybersecurity Professional pursuing a Bachelor's Degree in Computer Science
+A Cybersecurity Professional pursuing a Bachelor's Degree in Computer Science from The University of Guelph
 
 ---
 
