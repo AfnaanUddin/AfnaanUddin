@@ -15,7 +15,6 @@ afnaanuddin@gmail.com
 - ISC2 Certified in Cybersecurity (CC)
 
 ## Skills & Tools
-Certifications: ISC2 CC, CompTIA Security+ (In Progress)  
 
 Cybersecurity Tools: Rapid7, CrowdStrike, ProofPoint, Netskope, CyberArk, PingFederate, SentinelOne, ServiceNow (ITSM)  
 
